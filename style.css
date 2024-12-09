@@ -19,9 +19,9 @@ body{
     font-weight: 600;
     font-style: normal;
     opacity: 0;
-    animation: anima 1s forwards;
+    animation: animation 1s forwards;
 }
-@keyframes anima {
+@keyframes animation {
     to {
       opacity: 1;
     }
